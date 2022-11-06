@@ -26,7 +26,6 @@ email: tarczynskitomek@gmail.com
   #Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tarczynskitomek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: t_tarczynski
 github_username:  tarczynskitomek
 
 # Build settings
