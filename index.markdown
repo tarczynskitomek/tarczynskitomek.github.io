@@ -11,7 +11,7 @@ working with other people with close cooperation with business.
 
 *But most of all, I enjoy getting thigs done - that's the moment dopamine kicks in!*
 
-### Bonus Points:
+### Bonus Points
 - I conside myself a highly communicative Software Engineer with plenty of soft skills...
 - ... and a strangely satifying sense of humour.
 
